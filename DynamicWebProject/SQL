@@ -16,6 +16,6 @@ ALTER TABLE books.books
     
     delete from books.books;
     
-insert into books.books(id, name) values (0, 'Harry Potter 1');
+insert into books.books(id, name) values (0, 'Harry Potter and Prisoner of Askaban');
 
 insert into books.books(id, name) values (1, 'Harry Potter 2');
